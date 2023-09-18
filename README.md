@@ -1,2 +1,0 @@
-# yogacity
-Responsive Website Project
