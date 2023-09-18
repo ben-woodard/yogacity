@@ -18,8 +18,7 @@ h1{
     font-size: 3rem;
 }
 
-.navbar li a:hover,
-{
+.navbar li a:hover{
     color: pink;
 }
 
